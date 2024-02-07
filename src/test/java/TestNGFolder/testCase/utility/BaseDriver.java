@@ -1,4 +1,4 @@
-package utility;
+package TestNGFolder.testCase.utility;
 
 import org.apache.logging.log4j.LogManager;
 import org.openqa.selenium.WebDriver;
@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeMethod;
 import java.time.Duration;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import static testCase.Parent.waiting;
+import static TestNGFolder.testCase.Parent.waiting;
 
 public class BaseDriver {
     public static final org.apache.logging.log4j.Logger logger4j = LogManager.getLogger();

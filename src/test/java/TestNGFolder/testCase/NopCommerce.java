@@ -1,7 +1,7 @@
-package testCase;
+package TestNGFolder.testCase;
 
 import org.openqa.selenium.Platform;
-import utility.BaseDriver;
+import TestNGFolder.testCase.utility.BaseDriver;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
-import static testCase.Parent.*;
+import static TestNGFolder.testCase.Parent.*;
 
 public class NopCommerce extends BaseDriver {
 

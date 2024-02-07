@@ -4,12 +4,10 @@
     <test name="myTest">
         <parameter name="elements" value="Notebook"> </parameter>
         <parameter name="Search" value="Adobe Photoshop CS4"> </parameter>
+
+
         <classes>
-            <class name="testCase.NopCommerce">
-                <methods>
-                    <include name="US_508"/>
-                </methods>
-            </class>
+            <class name="TestNGFolder.testCase.NopCommerce"> </class>
         </classes>
     </test>
 </suite>

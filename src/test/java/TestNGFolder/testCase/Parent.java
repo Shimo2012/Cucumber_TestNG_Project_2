@@ -1,6 +1,6 @@
-package testCase;
+package TestNGFolder.testCase;
 
-import utility.BaseDriver;
+import TestNGFolder.testCase.utility.BaseDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;

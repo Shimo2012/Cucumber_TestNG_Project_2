@@ -5,9 +5,9 @@
         <parameter name="elements" value="Notebook"> </parameter>
         <parameter name="Search" value="Adobe Photoshop CS4"> </parameter>
         <classes>
-            <class name="testCase.NopCommerce">
+            <class name="TestNGFolder.testCase.NopCommerce">
                 <methods>
-                    <include name="US_505"/>
+                    <include name="US_508"/>
                 </methods>
             </class>
         </classes>
